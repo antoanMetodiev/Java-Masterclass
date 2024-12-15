@@ -1,7 +1,6 @@
 # Java-Masterclass
-Repository with tasks and solutions for the Udemy course: Java Masterclass 2025: 130+ Hours of Expert Lessons.
 
-What you'll learn
+- What you'll learn
 Learn the core Java skills needed to apply for Java developer positions in just 14 hours.
 Be able to sit for and pass the Oracle Java Certificate exam if you choose.
 Be able to demonstrate your understanding of Java to future employers.
