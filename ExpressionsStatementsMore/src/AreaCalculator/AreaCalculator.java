@@ -1,19 +1,17 @@
 package AreaCalculator;
 
 public class AreaCalculator {
-    // Method to calculate the area of a circle
     public static double area(double radius) {
         if (radius < 0) {
-            return -1.0; // Invalid value for radius
+            return -1.0; 
         }
-        return Math.PI * radius * radius; // Area of a circle: πr²
+        return Math.PI * radius * radius; 
     }
 
-    // Overloaded method to calculate the area of a rectangle
     public static double area(double x, double y) {
         if (x < 0 || y < 0) {
-            return -1.0; // Invalid value for one or both sides
+            return -1.0; 
         }
-        return x * y; // Area of a rectangle: length × width
+        return x * y; 
     }
 }
